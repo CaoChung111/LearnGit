@@ -31,7 +31,6 @@ public class Main {
 	}
 //đây là Huy Hoàng
 
-//Đây là Cao Chung
 	public static void main(String[] args) {
 		int choice = 0;
 		while (true) {
